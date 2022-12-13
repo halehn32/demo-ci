@@ -6,7 +6,6 @@ require (
 	github.com/andygrunwald/go-jira v1.13.0
 	github.com/docker/cli v0.0.0-20191017083524-a8ff7f821017
 	github.com/nats-io/jwt/v2 v2.3.0 
-	/* github.com/nats-io/jwt/v2 v3.2.2 */
 )
 
 require (
